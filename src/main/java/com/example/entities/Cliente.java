@@ -1,5 +1,5 @@
 package com.example.entities;
 
-public class Borrar {
+public class Cliente {
     
 }
